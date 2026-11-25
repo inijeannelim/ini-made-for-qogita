@@ -1,0 +1,1 @@
+Open index.html or use VS Code Live Server. Add your final CV at assets/Ini_Lim_CV.pdf (case sensitive). The CV link is intentionally pending until then. Blundstone currently uses existing editorial coverage; replace or extend with campaign photos later. Deploy this folder as a static site on Vercel. No build command required.
